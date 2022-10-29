@@ -685,7 +685,7 @@ align-items: center;
 .buttons {
   width: 20%;
   float: right;
-  margin-left: -18rem;
+  margin-right: -15rem;
   position: fixed;
 }
 
