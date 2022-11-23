@@ -200,7 +200,7 @@ a:hover.sottolineatura {
 }
 
 .title3 {
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
   color: black;
   font-size: 2rem;
 }
@@ -239,7 +239,7 @@ a:hover.sottolineatura {
 }
 
 .card-text {
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   font-size: 1.7rem;
   line-height: 2.2rem;
   padding: 0 8rem 0 8rem;
@@ -247,14 +247,14 @@ a:hover.sottolineatura {
 }
 
 .card-text.names {
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   font-size: 1.3rem;
   line-height: 1.9rem;
   padding: 3rem 6rem 0 8rem;
 }
 
 .cit {
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   font-size: 1.4rem;
   line-height: 1.9rem;
   padding: 0 12rem 0 12rem;
@@ -262,7 +262,7 @@ a:hover.sottolineatura {
 }
 
 .dida {
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   font-size: 1rem;
   line-height: 0.5rem;
   padding: 0 1rem 0 0;
@@ -270,19 +270,19 @@ a:hover.sottolineatura {
 }
 
 .card-title {
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
   padding: 6rem 0 0 8rem;
   margin: 0;
 }
 
 .subtitle {
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
   padding: 0 0 2rem 8rem;
   margin: 0;
 }
 
 .subtitlemiddle {
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
   padding: 2rem 0 2rem 8rem;
 }
 
@@ -290,7 +290,7 @@ a:hover.sottolineatura {
   border-radius: 0px !important;
   font-size: 1.3rem;
   padding-left: 2rem;
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
   background-color: var(--white);
   border-bottom: 3px solid black;
   position: -webkit-sticky;
@@ -334,7 +334,7 @@ a:hover.sottolineatura {
 }
 
 .card-body a {
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   color: var(--blue);
   text-decoration: none;
   font-size: 1.7rem;
@@ -342,7 +342,7 @@ a:hover.sottolineatura {
 }
 
 .card-body a:hover {
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   color: var(--blue);
   text-decoration: underline;
   font-size: 1.7rem;
@@ -466,7 +466,7 @@ a:hover.sottolineatura {
   }
 
   .title3 {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     color: black;
     font-size: 4.5rem;
   }
@@ -488,7 +488,7 @@ a:hover.sottolineatura {
   }
 
   .card-text {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 4rem;
     line-height: 5rem;
     padding: 0 25rem 0 20rem;
@@ -496,14 +496,14 @@ a:hover.sottolineatura {
   }
 
   .card-text.names {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 3.2rem;
     line-height: 4rem;
     padding: 12rem 25rem 0 20rem;
   }
 
   .cit {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 3.2rem;
     line-height: 4rem;
     padding: 0 40rem 0 30rem;
@@ -511,7 +511,7 @@ a:hover.sottolineatura {
   }
 
   .dida {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 2.3rem;
     line-height: 2.5rem;
     padding: 0 1rem 0 0;
@@ -519,21 +519,21 @@ a:hover.sottolineatura {
   }
 
   .card-title {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     padding: 6rem 0 0 20rem;
     margin: 0;
     font-size: 6rem;
   }
 
   .subtitle {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     padding: 0 0 4rem 20rem;
     margin: 0;
     font-size: 5rem;
   }
 
   .subtitlemiddle {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     padding: 4rem 0 4rem 20rem;
     font-size: 5rem;
   }
@@ -542,7 +542,7 @@ a:hover.sottolineatura {
     border-radius: 0px !important;
     font-size: 3rem;
     padding-left: 4rem;
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     background-color: var(--white);
     border-bottom: 5px solid black;
     position: -webkit-sticky;
@@ -586,7 +586,7 @@ a:hover.sottolineatura {
   }
 
   .card-body a {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     color: var(--blue);
     text-decoration: none;
     font-size: 4rem;
@@ -594,7 +594,7 @@ a:hover.sottolineatura {
   }
 
   .card-body a:hover {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     color: var(--blue);
     text-decoration: underline;
     font-size: 4rem;
@@ -720,7 +720,7 @@ a:hover.sottolineatura {
   }
 
   .title3 {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     color: black;
     font-size: 2rem;
   }
@@ -742,7 +742,7 @@ a:hover.sottolineatura {
   }
 
   .card-text {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 1.5rem;
     line-height: 2rem;
     padding: 0 2rem 0 3rem;
@@ -750,14 +750,14 @@ a:hover.sottolineatura {
   }
 
   .card-text.names {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 1.2rem;
     line-height: 1.5rem;
     padding: 1rem 2rem 0 3rem;
   }
 
   .cit {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 1.2rem;
     line-height: 1.5rem;
     padding: 0 5rem 0 4.5rem;
@@ -765,7 +765,7 @@ a:hover.sottolineatura {
   }
 
   .dida {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     font-size: 0.8rem;
     line-height: 0.9rem;
     padding: 0 0.8rem 0 0;
@@ -773,21 +773,21 @@ a:hover.sottolineatura {
   }
 
   .card-title {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     padding: 4rem 0 0 3rem;
     margin: 0;
     font-size: 2.5rem;
   }
 
   .subtitle {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     padding: 0 0 2rem 3rem;
     margin: 0;
     font-size: 2rem;
   }
 
   .subtitlemiddle {
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     padding: 2rem 0 2rem 3rem;
     font-size: 2rem;
   }
@@ -796,7 +796,7 @@ a:hover.sottolineatura {
     border-radius: 0px !important;
     font-size: 1.5rem;
     padding-left: 2rem;
-    font-family: var(--font-semibold);
+    font-family: var(--font-semiboldD);
     background-color: var(--white);
     border-bottom: 3px solid black;
     position: -webkit-sticky;
@@ -840,7 +840,7 @@ a:hover.sottolineatura {
   }
 
   .card-body a {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     color: var(--blue);
     text-decoration: none;
     font-size: 1.5rem;
@@ -848,7 +848,7 @@ a:hover.sottolineatura {
   }
 
   .card-body a:hover {
-    font-family: var(--font-regular);
+    font-family: var(--font-regularD);
     color: var(--blue);
     text-decoration: underline;
     font-size: 1.5rem;
