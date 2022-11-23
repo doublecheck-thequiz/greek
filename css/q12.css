@@ -243,7 +243,7 @@ a:hover {
 }
 
 .boldd {
-  font-family: var(--font-medium);
+  font-family: var(--font-mediumD);
 }
 
 /* elementi principali */
@@ -473,7 +473,7 @@ a:hover {
 .cls-13,
 .cls-14 {
   font-size: 25px;
-  font-family: var(--font-medium);
+  font-family: var(--font-mediumD);
 }
 
 .cls-16 {
@@ -577,7 +577,7 @@ a:hover {
   }
 
 .boldd {
-  font-family: var(--font-medium);
+  font-family: var(--font-mediumD);
 }
 
   .table {

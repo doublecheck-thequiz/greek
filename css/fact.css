@@ -27,7 +27,7 @@
 
 p {
   font-size: 2rem;
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   margin: 0;
 }
 
@@ -280,7 +280,7 @@ a:hover {
 
 .cls-5 {
   font-size: 40px;
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
 }
 
 .cls-4 {
@@ -327,7 +327,7 @@ a:hover {
 .cls-10 {
   font-size: 40px;
   fill: #1d1d1b;
-  font-family: var(--font-bold);
+  font-family: var(--font-boldD);
 }
 
 .cls-11 {
@@ -578,7 +578,7 @@ a:hover {
 .cls-50,
 .cls-45 {
   font-size: 40px;
-  font-family: var(--font-semibold);
+  font-family: var(--font-semiboldD);
 }
 
 .cls-46 {
@@ -602,11 +602,11 @@ a:hover {
 }
 
 .cls-100 {
-  font-family:  var(--font-light);
+  font-family:  var(--font-lightD);
 }
 
 .cls-101{
-  font-family: var(--font-bold);
+  font-family: var(--font-boldD);
 }
 
 .cls-104 {

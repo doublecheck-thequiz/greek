@@ -27,7 +27,7 @@
 
 p {
   font-size: 2rem;
-  font-family: var(--font-regular);
+  font-family: var(--font-regularD);
   margin: 0;
 }
 
@@ -225,7 +225,7 @@ a:hover {
   display: inline-block;
   font-size: 2rem;
   padding: 0 0.5rem;
-  font-family: var(--font-light);
+  font-family: var(--font-lightD);
   color: white;
 }
 
@@ -242,7 +242,7 @@ a:hover {
 }
 
 .boldd {
-  font-family: var(--font-medium);
+  font-family: var(--font-mediumD);
 }
 /* elementi principali */
 .table {
@@ -281,7 +281,7 @@ a:hover {
 
 .titoloriga {
   font-size: 1.6rem;
-  font-family: var(--font-light);
+  font-family: var(--font-lightD);
   margin-bottom: 0;
   margin-left: 1rem;
 }
@@ -465,7 +465,7 @@ a:hover {
   .cls-13,
   .cls-14 {
     font-size: 25px;
-    font-family: var(--font-medium);
+    font-family: var(--font-mediumD);
   }
 
   .cls-16 {
@@ -554,7 +554,7 @@ a:hover {
     display: inline-block;
     padding-left: 0% !important;
     animation: marquee 5s linear infinite;
-    font-family: var(--font-light);
+    font-family: var(--font-lightD);
     font-size: 5rem;
   }
 
@@ -567,7 +567,7 @@ a:hover {
   }
 
 .boldd {
-  font-family: var(--font-medium);
+  font-family: var(--font-mediumD);
 }
 
   .table {
@@ -655,7 +655,7 @@ a:hover {
 
   .titoloriga {
     font-size: 5rem;
-    font-family: var(--font-light);
+    font-family: var(--font-lightD);
     margin-bottom: 0;
     margin-left: 3rem;
   }
@@ -751,7 +751,7 @@ a:hover {
   font-size: 6rem;
   padding: 0 2rem;
   vertical-align: middle;
-  font-family: var(--font-light);
+  font-family: var(--font-lightD);
   color: white;
 }
 }
